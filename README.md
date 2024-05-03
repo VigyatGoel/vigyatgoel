@@ -1,9 +1,16 @@
-# Hello, My name is Vigyat Goel
-- I am currently pursuing my batchelors degree in Artificial Intelligence and Machine Learning from GGSIPU-EDC University School of Automation and Robotics.
-- Currently learning Android application development and Machine learning.
+###  Hi, I'm Vigyat Goel
 
-Linkedin profile - https://www.linkedin.com/in/vigyat-goel-9273a5258/
+🎓 Studying Artifical Intelligence and Machine Learning at University School of Automation and Robotics, currently in my second year.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VigyatGoel)](https://github.com/VigyatGoel/github-readme-stats)  
+🎮 Currently delving into Android development, exploring AIML.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigyatGoel&show_icons=true)
+🚀 Embarking on a GitHub journey to share, learn, and level up my skills. Always excited to upload and improve projects!
+
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/vigyat-goel-9273a5258/)!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vigyatgoel&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=transparent&langs_count=8" />
+</a>
