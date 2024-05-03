@@ -6,7 +6,7 @@
 
 🚀 Embarking on a GitHub journey to share, learn, and level up my skills. Always excited to upload and improve projects!
 
-🔗 Let's connect [LinkedIn](https://www.linkedin.com/in/vigyat-goel-9273a5258/_target=_blank)
+🔗 Let's connect [LinkedIn](https://www.linkedin.com/in/vigyat-goel-9273a5258/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vigyatgoel&show_icons=true&theme=transparent" />
