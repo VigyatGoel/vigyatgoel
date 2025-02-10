@@ -1,6 +1,6 @@
 ###  Hi, I'm Vigyat Goel
 
-🎓 Studying Artifical Intelligence and Machine Learning at University School of Automation and Robotics, currently in my second year.
+🎓 Studying Artifical Intelligence and Machine Learning at University School of Automation and Robotics, currently in my third year.
 
 🎮 Currently delving into Android development, exploring AIML.
 
