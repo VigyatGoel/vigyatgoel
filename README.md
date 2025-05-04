@@ -2,7 +2,7 @@
 
 🎓 Studying Artifical Intelligence and Machine Learning at University School of Automation and Robotics, currently in my third year.
 
-🎮 Currently delving into Android development, exploring AIML.
+🎮 Currently delving into Machine Learning and Deep Learning.
 
 🚀 Embarking on a GitHub journey to share, learn, and level up my skills. Always excited to upload and improve projects!
 
