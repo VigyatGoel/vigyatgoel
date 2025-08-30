@@ -1,18 +1,61 @@
-###  Hi, I'm Vigyat Goel
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Vigyat Goel</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Deep Learning Explorer | Open-Source Contributor</h3>
 
-🎓 Studying Artifical Intelligence and Machine Learning at University School of Automation and Robotics.
+---
 
-🎮 Currently delving into Machine Learning and Deep Learning.
+<!-- About Me Section -->
+<p align="center">
+  🎓 Studying <b>Artificial Intelligence and Machine Learning</b> at <b>University School of Automation and Robotics</b> <br>
+  🎮 Passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and building cool projects! <br>
+  🚀 On a journey to share, learn, and grow through <b>Open Source</b> and GitHub. <br>
+  🔗 <a href="https://www.linkedin.com/in/vigyat-goel-9273a5258/">Let's Connect on LinkedIn</a>
+</p>
 
-🚀 Embarking on a GitHub journey to share, learn, and level up my skills. Always excited to upload and improve projects!
+---
 
-🔗 Let's connect [LinkedIn](https://www.linkedin.com/in/vigyat-goel-9273a5258/)
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vigyatgoel&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vigyatgoel?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vigyatgoel?label=Stars&style=flat&color=blue" alt="Stars" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigyatgoel" alt="vigyatgoel" /></a> </p>
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vigyatgoel&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=transparent&langs_count=8" />
-</a>
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vigyatgoel&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigyatgoel&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+<!-- GitHub Streak -->
+<h2 align="center">🔥 GitHub Streak</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vigyatgoel&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,go,docker,aws,git,github,linux,fastapi" />
+</p>
+
+---
+
+<!-- Quote -->
+<h3 align="center">💡 "Code. Learn. Build. Repeat."</h3>
+
