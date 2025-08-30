@@ -14,15 +14,6 @@
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigyatgoel&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vigyatgoel?label=Followers&style=flat&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vigyatgoel?label=Stars&style=flat&color=blue" alt="Stars" />
-</p>
-
----
-
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
