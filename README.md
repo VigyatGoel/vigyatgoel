@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Vigyat Goel</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Deep Learning Explorer | Open-Source Contributor</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Deep Learning Explorer</h3>
 
 ---
 
