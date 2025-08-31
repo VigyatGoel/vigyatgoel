@@ -31,14 +31,6 @@
 
 ---
 
-<!-- GitHub Streak -->
-<h2 align="center">🔥 GitHub Streak</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vigyatgoel&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
