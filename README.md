@@ -14,16 +14,8 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigyatgoel&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Programning Languages</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
@@ -40,4 +32,3 @@
 
 <!-- Quote -->
 <h3 align="center">💡 "Code. Learn. Build. Repeat."</h3>
-
