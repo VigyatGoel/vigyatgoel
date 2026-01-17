@@ -15,13 +15,12 @@
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 Programning Languages</h2>
+<!-- <h2 align="center">📊 Programning Languages</h2>
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
