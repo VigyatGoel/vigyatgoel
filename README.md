@@ -6,7 +6,7 @@
 
 <!-- About Me Section -->
 <p align="center">
-  🎓 Studying <b>Software Engineer</b> <br>
+  🎓 <b>Software Engineer</b> <br>
   🎮 Passionate about <b>Machine Learning</b>, <b>Deep Learning</b>, and building cool projects! <br>
   🚀 On a journey to share, learn, and grow through <b>Open Source</b> and GitHub. <br>
   🔗 <a href="https://www.linkedin.com/in/vigyat-goel-9273a5258/">Let's Connect on LinkedIn</a>
