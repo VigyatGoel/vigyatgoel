@@ -22,25 +22,6 @@
 
 <hr>
 
-<!-- What I'm Working On -->
-<h2 align="center">🔭 Currently</h2>
-<p align="center">
-  🧪 Exploring <b>deep learning</b> and <b>systems programming</b> <br>
-  🧰 Building and shipping side projects <br>
-  📚 Learning in public — one commit at a time
-</p>
-
-<hr>
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vigyatgoel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigyatgoel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<hr>
-
 <!-- Connect -->
 <h2 align="center">🤝 Connect</h2>
 <p align="center">
